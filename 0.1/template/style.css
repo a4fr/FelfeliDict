@@ -1,0 +1,94 @@
+*{
+	margin: 0 auto;
+}
+
+body{
+	font-family: Tahoma, Arial;
+	font-size: 14px;
+	direction: rtl;
+	background-color: rgb(47, 89, 255);
+}
+
+code{
+	direction: ltr;
+	text-align: left;
+	background-color: yellow;
+}
+
+#felfeli{
+	text-align: center;
+	color: white;
+	font-size: 10px;
+	margin-top: 50px;
+	margin-bottom: 10px;
+}
+
+.dict{
+	margin-top: 50px;
+	padding: 10px;
+	width: 600px;
+	background-color: white;
+	border-radius: 15px;
+}
+
+.up{
+	background-color: black;
+}
+
+.search{
+	text-align: center;
+	background-color: rgb(224, 224, 224);
+	padding: 30px;
+	border-radius: 15px;
+}
+
+#txtbox-style{
+	direction:ltr;
+	background: url(img/txtbgi.gif) White;
+	border-color:#d7e4ee;
+	border-width:1px;
+	border-style:Solid;
+	font-family:Tahoma;
+	font-size:10pt;
+	height:22px; 
+	color:#222233; 
+	width:400px;
+	padding-left: 10px;
+	padding-right: 10px;
+	color: gray;
+}
+
+#btn-style{
+	border: 0px;
+	padding: 5 0 9 0;
+	background: url(img/btn-bg-b.gif) #2591e1 no-repeat left top;
+	margin: 5px;
+	font: 9pt tahoma;
+	height: 30px;
+	width: 125px;
+	cursor: pointer;
+	color: white;
+}
+
+.down{
+	text-align: center;
+	line-height: 25px;
+}
+
+#result-info{
+	background-color: yellow;
+	border-radius: 5px;
+	padding: 5px;
+}
+
+.item{
+	background-color: rgb(244, 245, 255);
+	padding: 10px 0 10px 0;
+}
+
+.word{
+	direction: ltr;
+	color: red;
+}
+
+.difinition{}
